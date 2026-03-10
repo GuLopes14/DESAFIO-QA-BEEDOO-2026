@@ -49,13 +49,13 @@ A estratégia de testes foi dividida em:
 
 Os cenários e casos de teste foram documentados na planilha abaixo:
 
-`https://docs.google.com/spreadsheets/d/1AmRd6mzWzRvBNt9d7NKY9YN_Wldk0TSFF17mNjSNK9o/edit?usp=sharing`
+https://docs.google.com/spreadsheets/d/1AmRd6mzWzRvBNt9d7NKY9YN_Wldk0TSFF17mNjSNK9o/edit?usp=sharing
 
 ## Evidências de execução
 
 As evidências da execução dos testes estão disponíveis no link abaixo:
 
-`https://drive.google.com/drive/folders/17bVjRDk2liQNIgR84s-QC_3ynQ4aRTi6?usp=sharing`
+https://drive.google.com/drive/folders/17bVjRDk2liQNIgR84s-QC_3ynQ4aRTi6?usp=sharing
 
 ## Testes automatizados implementados
 

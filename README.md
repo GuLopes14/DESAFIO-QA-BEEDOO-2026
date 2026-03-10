@@ -47,7 +47,7 @@ A estratégia de testes foi dividida em:
 
 ## Casos de teste
 
-Os cenários e casos de teste foram documentados na planilha abaixo:
+Os cenários, casos de teste e bugs foram documentados na planilha abaixo:
 
 https://docs.google.com/spreadsheets/d/1AmRd6mzWzRvBNt9d7NKY9YN_Wldk0TSFF17mNjSNK9o/edit?usp=sharing
 
